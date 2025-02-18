@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "E:/chained_clear(1)/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/chained_clear_autogen",
+	"CMAKE_BINARY_DIR" : "E:/chained_clear(1)/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/chained_clear(1)/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/chained_clear(1)",
+	"CMAKE_SOURCE_DIR" : "E:/chained_clear(1)",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/chained_clear(1)/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/chained_clear_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/chained_clear(1)/p1.jpg",
+		"E:/chained_clear(1)/back.jpg",
+		"E:/chained_clear(1)/p3.jpg",
+		"E:/chained_clear(1)/p2.jpg",
+		"E:/chained_clear(1)/but.png"
+	],
+	"LOCK_FILE" : "E:/chained_clear(1)/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/chained_clear_autogen.dir/AutoRcc_photo_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "photo" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_photo.cpp",
+	"RCC_EXECUTABLE" : "D:/qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/chained_clear(1)/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/chained_clear_autogen.dir/AutoRcc_photo_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/chained_clear(1)/photo.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
